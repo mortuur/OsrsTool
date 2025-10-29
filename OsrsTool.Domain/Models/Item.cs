@@ -10,8 +10,8 @@ namespace OsrsTool.Domain.Models
     {
         public int Id { get; set; }
         public string Name { get; set; } = "";
-        public decimal BuyPrice { get; set; }
-        public decimal SellPrice { get; set; }
+        public long BuyPrice { get; set; }
+        public long SellPrice { get; set; }
         public bool MembersOnly { get; set; }
         public DateTime LastUpdated { get; set; }
     }

@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OsrsTool.Domain\OsrsTool.Domain.csproj" />
-    <ProjectReference Include="..\OsrsTracker.Infrastructure\OsrsTool.Infrastructure.csproj" />
+    <ProjectReference Include="..\OsrsTool.Infrastructure\OsrsTool.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

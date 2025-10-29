@@ -1,5 +1,5 @@
-﻿using OsrsTracker.Domain.DTOs;
-namespace OsrsTracker.Domain.Interfaces
+﻿using OsrsTool.Domain.DTOs;
+namespace OsrsTool.Domain.Interfaces
 
 {
     public interface IOsrsWikiService

@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTracker.Infrastructure\\OsrsTool.Infrastructure.csproj": {
+    "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTracker.Infrastructure\\OsrsTool.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj",
         "projectName": "OsrsTool.Infrastructure",
-        "projectPath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTracker.Infrastructure\\OsrsTool.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\bartp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTracker.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,6 +120,22 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -172,8 +188,8 @@
               "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\OsrsTool.Domain.csproj": {
                 "projectPath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\OsrsTool.Domain.csproj"
               },
-              "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTracker.Infrastructure\\OsrsTool.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTracker.Infrastructure\\OsrsTool.Infrastructure.csproj"
+              "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj"
               }
             }
           }

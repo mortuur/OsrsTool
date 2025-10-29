@@ -1,5 +1,5 @@
 ﻿
-namespace OsrsTracker.Domain.DTOs
+namespace OsrsTool.Domain.DTOs
 
 {
     public class ItemDto
