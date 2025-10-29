@@ -1,0 +1,6 @@
+@OsrsTool.server_HostAddress = http://localhost:5010
+
+GET {{OsrsTool.server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

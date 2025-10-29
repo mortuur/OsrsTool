@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0C215D-BCA7-4D9E-A276-2213AFCE2DC9}|OsrsTool.Test.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\test\\osrstool.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A0C215D-BCA7-4D9E-A276-2213AFCE2DC9}|OsrsTool.Test.csproj|solutionrelative:osrstool.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BFFE7-34C1-4C5A-8C2C-26EFCFD6AF37}|..\\OsrsTracker.Infrastructure\\OsrsTracker.Infrastructure.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstracker.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65B2874-A87D-453A-A745-94A3075D9C26}|..\\OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0C215D-BCA7-4D9E-A276-2213AFCE2DC9}|Test.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0C215D-BCA7-4D9E-A276-2213AFCE2DC9}|Test.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OsrsTool.Test",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\Test\\OsrsTool.Test.csproj",
+              "RelativeDocumentMoniker": "OsrsTool.Test.csproj",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\Test\\OsrsTool.Test.csproj",
+              "RelativeToolTip": "OsrsTool.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T12:30:42.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTracker.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\OsrsTracker.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTracker.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\OsrsTracker.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:53:38.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\OsrsTool.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\OsrsTool.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:18:18.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\Test\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:10:11.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

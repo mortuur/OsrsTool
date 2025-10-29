@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YW2Ehnk85ZU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.server\\OsrsTool.server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bartp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\bartp\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

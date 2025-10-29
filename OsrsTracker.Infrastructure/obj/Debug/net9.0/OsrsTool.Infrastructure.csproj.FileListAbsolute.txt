@@ -1,0 +1,6 @@
+C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTracker.Infrastructure\obj\Debug\net9.0\OsrsTool.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTracker.Infrastructure\obj\Debug\net9.0\OsrsTool.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTracker.Infrastructure\obj\Debug\net9.0\OsrsTool.Infrastructure.AssemblyInfo.cs
+C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTracker.Infrastructure\obj\Debug\net9.0\OsrsTool.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTracker.Infrastructure\obj\Debug\net9.0\OsrsTool.Infrastructure.sourcelink.json
+C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTracker.Infrastructure\obj\Debug\net9.0\OsrsTool.Infrastructure.csproj.AssemblyReference.cache
