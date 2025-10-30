@@ -13,6 +13,11 @@
 **/[Oo]ut/
 **/[Pp]ublish/
 
+**/bin/
+**/obj/
+.vs/
+
+
 # Build-artifacts
 *.dll
 *.exe
