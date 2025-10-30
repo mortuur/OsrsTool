@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OsrsTool.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7b6767911335694db81bd8ded5c62241eabb854")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab3a4d228daac3fb48d994ea4569bd3d01d20689")]
 [assembly: System.Reflection.AssemblyProductAttribute("OsrsTool.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OsrsTool.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

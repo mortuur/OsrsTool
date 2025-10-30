@@ -25,10 +25,7 @@ namespace OsrsTool.Infrastructure.Migrations
             modelBuilder.Entity("OsrsTool.Domain.Entities.Item", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Examine")
                         .IsRequired()

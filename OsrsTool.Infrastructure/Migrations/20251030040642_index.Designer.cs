@@ -12,8 +12,8 @@ using OsrsTool.Infrastructure.Data;
 namespace OsrsTool.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251030011900_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20251030040642_index")]
+    partial class index
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -28,10 +28,7 @@ namespace OsrsTool.Infrastructure.Migrations
             modelBuilder.Entity("OsrsTool.Domain.Entities.Item", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Examine")
                         .IsRequired()

@@ -12,12 +12,16 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // Services httpclient
-builder.Services.AddHttpClient<IOsrsApiService, OsrsApiService>();
+builder.Services.AddHttpClient<IOsrsApiService, OsrsApiService>(client =>
+{
+    client.DefaultRequestHeaders.Add("User-Agent", "OsrsTool/1.0 (contact: github.com/mortuur)");
+});
 // Repositories
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 // services
 
-
+// Hosted background service
+builder.Services.AddHostedService<OsrsApiBackgroundService>();
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();

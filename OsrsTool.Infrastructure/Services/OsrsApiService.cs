@@ -84,13 +84,12 @@ namespace OsrsTool.Infrastructure.Services
                 await _historyRepo.AddAsync(new ItemPriceHistory
                 {
                     ItemId = itemId,
-                    HighPrice = price.High,
-                    LowPrice = price.Low,
+                    HighPrice = price.High ?? 0,
+                    LowPrice = price.Low ?? 0,
                     RecordedAt = DateTime.UtcNow
                 });
+                item.LastUpdated = DateTime.UtcNow;
 
-                // Optionally update the item (kept from previous behavior)
-                _itemRepo.Update(item);
             }
 
             await _itemRepo.SaveChangesAsync();
