@@ -156,3 +156,4 @@ C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTool.Server\bin\Debug\net9.0\ru\M
 C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTool.Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTool.Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTool.Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bartp\repos\osrs_tool_v2\OsrsTool\OsrsTool.Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

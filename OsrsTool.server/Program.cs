@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using OsrsTool.Domain.Models;
 using OsrsTool.Domain.Interfaces;
 using OsrsTool.Infrastructure.Data;
@@ -32,5 +32,12 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<GenericDbContext<Item>>();
+    db.Database.Migrate();
+}
+
 
 app.Run();
