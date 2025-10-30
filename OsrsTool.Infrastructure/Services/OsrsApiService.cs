@@ -71,7 +71,7 @@ namespace OsrsTool.Infrastructure.Services
             if (response == null || response.Data.Count == 0) return;
 
             var dbItems = await _itemRepo.GetAllAsync();
-            // Materialize into a dictionary for O(1) lookups
+            
             var itemsById = dbItems.ToDictionary(i => i.Id);
 
             foreach (var kv in response.Data)
