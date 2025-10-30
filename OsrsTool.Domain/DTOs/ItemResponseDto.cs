@@ -6,4 +6,5 @@
         public long ProfitMargin { get; set; }
     }
 
+
 }
