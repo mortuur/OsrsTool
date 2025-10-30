@@ -1,108 +1,115 @@
-##############
-# Dotnet / C#
-##############
+##############################
+# .NET / C# / Visual Studio
+##############################
 
-# Build results
-bin/
-obj/
+# Build output (voor alle projecten)
+**/[Bb]in/
+**/[Oo]bj/
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Ll]og/
+**/[Ll]ogs/
+**/[Aa]rtifacts/
+**/[Oo]ut/
+**/[Pp]ublish/
+
+# Build-artifacts
 *.dll
 *.exe
 *.pdb
-.vs/
-*.appx
-*.appxupload
+*.mdb
+*.cache
+*.db
+*.log
+*.tlb
+*.tmp
+*.bak
 
-# User-specific files
+# Auto-generated C# files
+**/*.AssemblyInfo.cs
+**/*.g.*
+**/*.generated.*
+**/Generated\ Files/
+
+# Entity Framework migrations cache
+**/Migrations/[Oo]bj/
+**/Migrations/[Bb]in/
+
+##############################
+# Visual Studio / JetBrains / VS Code
+##############################
+
+# IDE specifieke mappen
+.vs/
+.idea/
+.vscode/
+
+# Gebruikersspecifieke instellingen
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# VS Code settings
-.vscode/
+# Build logs
+[Bb]uild[Ll]og.*.txt
 
-# Rider settings
-.idea/
-
-# VS / JetBrains temporary
-*.tmp
-*.bak
-
-# VS folder (project settings and temp data)
-.vs/
-
-# Dotnet-specific cache
-*.cache
-*.db
-*.log
-
-# Auto-generated files
-Generated\ Files/
-
-# Test results
-TestResults/
+##############################
+# Testprojecten
+##############################
+**/[Tt]est[Rr]esults/
 *.coverage
 *.coveragejson
 *.trx
 
+##############################
 # NuGet
+##############################
 *.nupkg
+*.snupkg
 .nuget/
 packages/
 project.lock.json
 project.fragment.lock.json
+*.nuspec
+**/obj/project.assets.json
 
-##############
-# React / Vite / Node
-##############
-
-# Node modules
+##############################
+# Frontend (React / Vite / Node)
+##############################
 node_modules/
-
-# Build output
 dist/
 build/
+vite.svg
 
-# Local environment settings
+# Env-bestanden
 .env
-.env.*.local
 .env.local
+.env.*.local
 
-# Log files
+# Logbestanden
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-vite.svg
 
-# Editor specific
-.DS_Store
-Thumbs.db
-
-##############
-# Optional: OS files
-##############
-
+##############################
+# OS bestanden
+##############################
 # macOS
-*.DS_Store
+.DS_Store
 
 # Windows
-ehthumbs.db
 Thumbs.db
+ehthumbs.db
 desktop.ini
 
-##############
-# Optional: JetBrains Rider
-##############
+# Linux
+*~
 
-.idea/
-
-##############
-# Optional: Dependency lock files (optional depending on your version control strategy)
-##############
-
-# Uncomment if you don't want to version lock files (not recommended for team projects)
+##############################
+# Optioneel: lockfiles
+##############################
+# (Laat ze staan bij teamprojecten)
 # package-lock.json
 # yarn.lock
 # pnpm-lock.yaml
-# obj/project.assets.json
