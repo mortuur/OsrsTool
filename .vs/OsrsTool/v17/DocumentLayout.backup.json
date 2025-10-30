@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.infrastructure\\services\\osrsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|solutionrelative:osrstool.infrastructure\\services\\osrsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\entities\\api\\osrsitemmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\entities\\api\\osrsitemmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\entities\\api\\osrsitemprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\entities\\api\\osrsitemprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\entities\\api\\osrspriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\entities\\api\\osrspriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\interfaces\\iosrswikiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\interfaces\\iosrswikiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62296710-0739-DCE3-93D3-338E566BC452}|OsrsTool.Server\\OsrsTool.Server.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62296710-0739-DCE3-93D3-338E566BC452}|OsrsTool.Server\\OsrsTool.Server.csproj|solutionrelative:osrstool.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\interfaces\\iosrsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\interfaces\\iosrsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|solutionrelative:osrstool.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|solutionrelative:osrstool.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\dtos\\itemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\dtos\\itemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62296710-0739-DCE3-93D3-338E566BC452}|OsrsTool.Server\\OsrsTool.Server.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.server\\osrstool.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62296710-0739-DCE3-93D3-338E566BC452}|OsrsTool.Server\\OsrsTool.Server.csproj|solutionrelative:osrstool.server\\osrstool.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Migrations\\20251030011900_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OsrsTool.Infrastructure\\Migrations\\20251030011900_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62296710-0739-DCE3-93D3-338E566BC452}|OsrsTool.Server\\OsrsTool.Server.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,24 +75,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OsrsTool.Infrastructure\\Migrations\\20251030011026_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|solutionrelative:osrstool.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62296710-0739-DCE3-93D3-338E566BC452}|OsrsTool.Server\\OsrsTool.Server.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.server\\osrstool.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{62296710-0739-DCE3-93D3-338E566BC452}|OsrsTool.Server\\OsrsTool.Server.csproj|solutionrelative:osrstool.server\\osrstool.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.infrastructure\\osrstool.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|solutionrelative:osrstool.infrastructure\\osrstool.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.domain\\osrstool.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DF6E510F-6FBA-358D-C018-B13D35925DAA}|OsrsTool.Domain\\OsrsTool.Domain.csproj|solutionrelative:osrstool.domain\\osrstool.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|solutionrelative:osrstool.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7227C8B4-AF50-4259-A19D-E5D5355DD4B3}|OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj|c:\\users\\bartp\\repos\\osrs_tool_v2\\osrstool\\osrstool.infrastructure\\configurations\\itempricehistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +102,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Domain\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Models\\Item.cs",
+              "RelativeToolTip": "OsrsTool.Domain\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:48:53.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOsrsWikiService.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Interfaces\\IOsrsWikiService.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Domain\\Interfaces\\IOsrsWikiService.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Interfaces\\IOsrsWikiService.cs",
+              "RelativeToolTip": "OsrsTool.Domain\\Interfaces\\IOsrsWikiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:48:50.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OsrsItemPrice.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Entities\\Api\\OsrsItemPrice.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Domain\\Entities\\Api\\OsrsItemPrice.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Entities\\Api\\OsrsItemPrice.cs",
+              "RelativeToolTip": "OsrsTool.Domain\\Entities\\Api\\OsrsItemPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:47:57.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OsrsPriceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Entities\\Api\\OsrsPriceResponse.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Domain\\Entities\\Api\\OsrsPriceResponse.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Entities\\Api\\OsrsPriceResponse.cs",
+              "RelativeToolTip": "OsrsTool.Domain\\Entities\\Api\\OsrsPriceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:47:30.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "OsrsTool.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:43:58.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOsrsApiService.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Interfaces\\IOsrsApiService.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Domain\\Interfaces\\IOsrsApiService.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Interfaces\\IOsrsApiService.cs",
+              "RelativeToolTip": "OsrsTool.Domain\\Interfaces\\IOsrsApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:35:09.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OsrsApiService.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Services\\OsrsApiService.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Infrastructure\\Services\\OsrsApiService.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Services\\OsrsApiService.cs",
+              "RelativeToolTip": "OsrsTool.Infrastructure\\Services\\OsrsApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:31:14.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OsrsItemMapping.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Entities\\Api\\OsrsItemMapping.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Domain\\Entities\\Api\\OsrsItemMapping.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Entities\\Api\\OsrsItemMapping.cs",
+              "RelativeToolTip": "OsrsTool.Domain\\Entities\\Api\\OsrsItemMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:29:45.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\DTOs\\ItemDto.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Domain\\DTOs\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\DTOs\\ItemDto.cs",
+              "RelativeToolTip": "OsrsTool.Domain\\DTOs\\ItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:27:02.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\DTOs\\ItemResponseDto.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Domain\\DTOs\\ItemResponseDto.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\DTOs\\ItemResponseDto.cs",
+              "RelativeToolTip": "OsrsTool.Domain\\DTOs\\ItemResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:26:58.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251030011900_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Migrations\\20251030011900_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OsrsTool.Infrastructure\\Migrations\\20251030011900_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Migrations\\20251030011900_InitialCreate.cs",
+              "RelativeToolTip": "OsrsTool.Infrastructure\\Migrations\\20251030011900_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:19:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.server\\appsettings.json",
               "RelativeDocumentMoniker": "OsrsTool.server\\appsettings.json",
@@ -75,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OsrsTool.server\\Properties\\launchSettings.json",
@@ -88,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "20251030011026_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Migrations\\20251030011026_InitialCreate.cs",
               "RelativeDocumentMoniker": "OsrsTool.Infrastructure\\Migrations\\20251030011026_InitialCreate.cs",
@@ -101,20 +288,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.server\\Program.cs",
               "RelativeDocumentMoniker": "OsrsTool.server\\Program.cs",
               "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.server\\Program.cs",
               "RelativeToolTip": "OsrsTool.server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T01:07:47.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "OsrsTool.Server",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Server\\OsrsTool.Server.csproj",
               "RelativeDocumentMoniker": "OsrsTool.Server\\OsrsTool.Server.csproj",
@@ -127,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "OsrsTool.Infrastructure",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj",
               "RelativeDocumentMoniker": "OsrsTool.Infrastructure\\OsrsTool.Infrastructure.csproj",
@@ -140,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "OsrsTool.Domain",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\OsrsTool.Domain.csproj",
               "RelativeDocumentMoniker": "OsrsTool.Domain\\OsrsTool.Domain.csproj",
@@ -153,20 +340,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "OsrsTool.Infrastructure\\Repositories\\Repository.cs",
               "ToolTip": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Repositories\\Repository.cs",
               "RelativeToolTip": "OsrsTool.Infrastructure\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T00:57:46.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "ItemPriceHistoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Configurations\\ItemPriceHistoryConfiguration.cs",
               "RelativeDocumentMoniker": "OsrsTool.Infrastructure\\Configurations\\ItemPriceHistoryConfiguration.cs",
@@ -179,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "ItemPriceHistory.cs",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Entities\\ItemPriceHistory.cs",
               "RelativeDocumentMoniker": "OsrsTool.Domain\\Entities\\ItemPriceHistory.cs",
@@ -192,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Domain\\Entities\\Item.cs",
               "RelativeDocumentMoniker": "OsrsTool.Domain\\Entities\\Item.cs",
@@ -205,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bartp\\repos\\osrs_tool_v2\\OsrsTool\\OsrsTool.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "OsrsTool.Infrastructure\\Data\\AppDbContext.cs",

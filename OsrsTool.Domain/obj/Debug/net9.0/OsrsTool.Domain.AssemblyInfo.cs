@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OsrsTool.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c17ec48ff50ec2eda930aba66463ddb22c34ba1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7b6767911335694db81bd8ded5c62241eabb854")]
 [assembly: System.Reflection.AssemblyProductAttribute("OsrsTool.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OsrsTool.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

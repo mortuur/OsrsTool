@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using OsrsTool.Domain.Models;
 using OsrsTool.Domain.Interfaces;
 using OsrsTool.Infrastructure.Data;
 using OsrsTool.Infrastructure.Repositories;
+using OsrsTool.Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,9 +11,12 @@ var builder = WebApplication.CreateBuilder(args);
 // DbContext voor elk type dat je wilt gebruiken
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
+// Services httpclient
+builder.Services.AddHttpClient<IOsrsApiService, OsrsApiService>();
 // Repositories
-builder.Services.AddScoped<IRepository<Item>, Repository<Item>>();
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+// services
+
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
