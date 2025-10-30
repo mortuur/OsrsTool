@@ -1,7 +1,5 @@
-﻿using System.Collections.Generic;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using OsrsTool.Domain.DTOs;
+﻿using Microsoft.AspNetCore.Mvc;
+using OsrsTool.Domain.Interfaces;
 
 namespace OsrsTool.Server.controller
 {
@@ -9,6 +7,12 @@ namespace OsrsTool.Server.controller
     [ApiController]
     public class ItemController : ControllerBase
     {
+        private readonly IItemService _itemService;
+        public ItemController(IItemService itemService)
+        {
+            _itemService = itemService;
+        }
+
         [HttpGet("test")]
         public IActionResult Test()
         {
@@ -16,21 +20,17 @@ namespace OsrsTool.Server.controller
         }
 
         [HttpGet]
-        public IActionResult GetAllItems()
+        public async Task<IActionResult> GetAllItems()
         {
-            var items = new List<ItemDto>
-            {
-                new ItemDto { Id = 1, Name = "Item 1", Examine = "This is item 1.", Members = false },
-                new ItemDto { Id = 2, Name = "Item 2", Examine = "This is item 2.", Members = true }
-            };
+            var items = await _itemService.GetAllItemsAsync();
             return Ok(items);
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetItem(int id)
+        public async Task<IActionResult> GetItem(int id)
         {
-            var item = new ItemDto { Id = id, Name = "Sample Item", Examine = "This is a sample item.", Members = false };
-            return Ok(item);
+            var item = await _itemService.GetItemByIdAsync(id);
+            return item == null ? NotFound() : Ok(item);
         }
     }
 }

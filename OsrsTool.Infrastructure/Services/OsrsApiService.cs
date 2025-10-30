@@ -38,7 +38,7 @@ namespace OsrsTool.Infrastructure.Services
                 {
                     existing.Name = apiItem.Name;
                     existing.Examine = apiItem.Examine;
-                    existing.MembersOnly = apiItem.Members;
+                    existing.Members = apiItem.Members;
                     existing.Limit = apiItem.Limit;
                     existing.LastUpdated = DateTime.UtcNow;
                     _itemRepo.Update(existing);
@@ -50,7 +50,7 @@ namespace OsrsTool.Infrastructure.Services
                         Id = apiItem.Id,
                         Name = apiItem.Name,
                         Examine = apiItem.Examine,
-                        MembersOnly = apiItem.Members,
+                        Members = apiItem.Members,
                         Limit = apiItem.Limit,
                         LastUpdated = DateTime.UtcNow
                     };

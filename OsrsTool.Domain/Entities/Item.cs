@@ -10,7 +10,7 @@ namespace OsrsTool.Domain.Entities
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
         public string Examine { get; set; } = string.Empty;
-        public bool MembersOnly { get; set; }
+        public bool Members { get; set; }
         public int? Limit { get; set; }
         public DateTime LastUpdated { get; set; } = DateTime.UtcNow;
 

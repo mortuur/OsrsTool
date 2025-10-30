@@ -19,6 +19,7 @@ builder.Services.AddHttpClient<IOsrsApiService, OsrsApiService>(client =>
 // Repositories
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 // services
+builder.Services.AddScoped<IItemService, Itemservice>();
 
 // Hosted background service
 builder.Services.AddHostedService<OsrsApiBackgroundService>();

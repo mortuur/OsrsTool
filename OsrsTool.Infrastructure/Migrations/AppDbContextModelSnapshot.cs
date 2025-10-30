@@ -37,7 +37,7 @@ namespace OsrsTool.Infrastructure.Migrations
                     b.Property<int?>("Limit")
                         .HasColumnType("int");
 
-                    b.Property<bool>("MembersOnly")
+                    b.Property<bool>("Members")
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")

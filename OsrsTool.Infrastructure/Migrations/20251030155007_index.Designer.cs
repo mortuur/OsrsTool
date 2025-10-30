@@ -12,7 +12,7 @@ using OsrsTool.Infrastructure.Data;
 namespace OsrsTool.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251030040642_index")]
+    [Migration("20251030155007_index")]
     partial class index
     {
         /// <inheritdoc />
@@ -40,7 +40,7 @@ namespace OsrsTool.Infrastructure.Migrations
                     b.Property<int?>("Limit")
                         .HasColumnType("int");
 
-                    b.Property<bool>("MembersOnly")
+                    b.Property<bool>("Members")
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")

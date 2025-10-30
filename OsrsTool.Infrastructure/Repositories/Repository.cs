@@ -3,6 +3,7 @@ using OsrsTool.Domain.Interfaces;
 using OsrsTool.Infrastructure.Data;
 using System.Linq.Expressions;
 
+
 namespace OsrsTool.Infrastructure.Repositories
 {
     public class Repository<T> : IRepository<T> where T : class

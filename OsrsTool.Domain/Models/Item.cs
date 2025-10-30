@@ -6,7 +6,10 @@
         public string Name { get; set; } = "";
         public long BuyPrice { get; set; }
         public long SellPrice { get; set; }
-        public bool MembersOnly { get; set; }
+        public bool Members { get; set; }
+
+        public string Examine { get; set; } = "";
+
         public DateTime LastUpdated { get; set; }
     }
 

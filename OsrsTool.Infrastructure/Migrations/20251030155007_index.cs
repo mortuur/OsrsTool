@@ -18,7 +18,7 @@ namespace OsrsTool.Infrastructure.Migrations
                     Id = table.Column<int>(type: "int", nullable: false),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Examine = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    MembersOnly = table.Column<bool>(type: "bit", nullable: false),
+                    Members = table.Column<bool>(type: "bit", nullable: false),
                     Limit = table.Column<int>(type: "int", nullable: true),
                     LastUpdated = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
