@@ -8,6 +8,9 @@ obj/
 *.dll
 *.exe
 *.pdb
+.vs/
+*.appx
+*.appxupload
 
 # User-specific files
 *.user
