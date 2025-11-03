@@ -133,7 +133,7 @@
       { "tier": 1, "itemId": 1654, "name": "Amulet of power" },
       { "tier": 2, "itemId": 1731, "name": "Amulet of glory" },
       { "tier": 3, "itemId": 6585, "name": "Amulet of fury" },
-      { "tier": 4, "itemId": 19547, "name": "Necklace of anguish" }
+      { "tier": 4, "itemId": 19553, "name": "Necklace of anguish" }
     ],
     "Ring": [
       { "tier": 1, "itemId": 2550, "name": "Ring of wealth" },
@@ -148,7 +148,7 @@
       { "tier": 2, "itemId": 7394, "name": "Farseer helm" },
       { "tier": 3, "itemId": 4708, "name": "Splitbark helm" },
       { "tier": 4, "itemId": 4716, "name": "Mystic hat" },
-      { "tier": 5, "itemId": 19553, "name": "Ahrim's hood" },
+      { "tier": 5, "itemId": 4708, "name": "Ahrim's hood" },
       { "tier": 6, "itemId": 21018, "name": "Ancestral hat" },
       { "tier": 7, "itemId": 28602, "name": "Virtus mask" }
     ],
@@ -156,7 +156,7 @@
       { "tier": 1, "itemId": 577, "name": "Wizard robe top" },
       { "tier": 2, "itemId": 4712, "name": "Splitbark body" },
       { "tier": 3, "itemId": 4720, "name": "Mystic robe top" },
-      { "tier": 4, "itemId": 4712, "name": "Ahrim's robetop" },
+      { "tier": 4, "itemId": 4856, "name": "Ahrim's robetop" },
       { "tier": 5, "itemId": 21021, "name": "Ancestral robe top" },
       { "tier": 6, "itemId": 28599, "name": "Virtus robe top" }
     ],
@@ -164,7 +164,7 @@
       { "tier": 1, "itemId": 1011, "name": "Wizard robe skirt" },
       { "tier": 2, "itemId": 4714, "name": "Splitbark legs" },
       { "tier": 3, "itemId": 4722, "name": "Mystic robe bottom" },
-      { "tier": 4, "itemId": 4714, "name": "Ahrim's robeskirt" },
+      { "tier": 4, "itemId": 4858, "name": "Ahrim's robeskirt" },
       { "tier": 5, "itemId": 21024, "name": "Ancestral robe bottom" },
       { "tier": 6, "itemId": 28596, "name": "Virtus robe legs" }
     ],
@@ -174,11 +174,10 @@
       { "tier": 3, "itemId": 1401, "name": "Staff of fire" },
       { "tier": 4, "itemId": 4170, "name": "Slayer's staff" },
       { "tier": 5, "itemId": 6914, "name": "Ancient staff" },
-      { "tier": 6, "itemId": 4675, "name": "Ancient staff" },
-      { "tier": 7, "itemId": 11791, "name": "Staff of the dead" },
-      { "tier": 8, "itemId": 22296, "name": "Harmonised nightmare staff" },
-      { "tier": 9, "itemId": 21006, "name": "Kodai wand" },
-      { "tier": 10, "itemId": 25731, "name": "Tumeken's shadow" }
+      { "tier": 6, "itemId": 11791, "name": "Staff of the dead" },
+      { "tier": 7, "itemId": 22296, "name": "Harmonised nightmare staff" },
+      { "tier": 8, "itemId": 21006, "name": "Kodai wand" },
+      { "tier": 9, "itemId": 25731, "name": "Tumeken's shadow" }
     ],
     "Cape": [
       { "tier": 1, "itemId": 1007, "name": "Cape" },
@@ -201,7 +200,7 @@
       { "tier": 1, "itemId": 1654, "name": "Amulet of power" },
       { "tier": 2, "itemId": 1731, "name": "Amulet of glory" },
       { "tier": 3, "itemId": 6585, "name": "Amulet of fury" },
-      { "tier": 4, "itemId": 19553, "name": "Occult necklace" }
+      { "tier": 4, "itemId": 12002, "name": "Occult necklace" }
     ],
     "Ring": [
       { "tier": 1, "itemId": 2550, "name": "Ring of wealth" },

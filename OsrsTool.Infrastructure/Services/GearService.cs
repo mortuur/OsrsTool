@@ -53,7 +53,9 @@ namespace OsrsTool.Infrastructure.Services
                         
                         // Try to get current price from database
                         var dbItem = await _itemRepository.GetByIdAsync(itemId);
-                        long? currentPrice = dbItem?.LatestPrice?.HighPrice;
+                        long? currentPrice = dbItem?.LatestPrice?.HighPrice != null 
+                            ? (long)dbItem.LatestPrice.HighPrice 
+                            : null;
                         
                         items.Add(new GearItemDto
                         {
