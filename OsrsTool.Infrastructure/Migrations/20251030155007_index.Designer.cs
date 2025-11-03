@@ -13,7 +13,7 @@ namespace OsrsTool.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     [Migration("20251030155007_index")]
-    partial class index
+    partial class Index
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
