@@ -1,0 +1,212 @@
+{
+  "Melee": {
+    "Head": [
+      { "tier": 1, "itemId": 1153, "name": "Iron full helm" },
+      { "tier": 2, "itemId": 1157, "name": "Steel full helm" },
+      { "tier": 3, "itemId": 1159, "name": "Mithril full helm" },
+      { "tier": 4, "itemId": 1161, "name": "Adamant full helm" },
+      { "tier": 5, "itemId": 1163, "name": "Rune full helm" },
+      { "tier": 6, "itemId": 11128, "name": "Berserker helm" },
+      { "tier": 7, "itemId": 3751, "name": "Helm of neitiznot" },
+      { "tier": 8, "itemId": 26382, "name": "Faceguard" },
+      { "tier": 9, "itemId": 22322, "name": "Torva full helm" }
+    ],
+    "Body": [
+      { "tier": 1, "itemId": 1115, "name": "Iron platebody" },
+      { "tier": 2, "itemId": 1119, "name": "Steel platebody" },
+      { "tier": 3, "itemId": 1121, "name": "Mithril platebody" },
+      { "tier": 4, "itemId": 1123, "name": "Adamant platebody" },
+      { "tier": 5, "itemId": 1127, "name": "Rune platebody" },
+      { "tier": 6, "itemId": 10551, "name": "Fighter torso" },
+      { "tier": 7, "itemId": 11832, "name": "Bandos chestplate" },
+      { "tier": 8, "itemId": 22326, "name": "Torva platebody" }
+    ],
+    "Legs": [
+      { "tier": 1, "itemId": 1067, "name": "Iron platelegs" },
+      { "tier": 2, "itemId": 1069, "name": "Steel platelegs" },
+      { "tier": 3, "itemId": 1071, "name": "Mithril platelegs" },
+      { "tier": 4, "itemId": 1073, "name": "Adamant platelegs" },
+      { "tier": 5, "itemId": 1079, "name": "Rune platelegs" },
+      { "tier": 6, "itemId": 11834, "name": "Bandos tassets" },
+      { "tier": 7, "itemId": 22328, "name": "Torva platelegs" }
+    ],
+    "Weapon": [
+      { "tier": 1, "itemId": 1277, "name": "Iron sword" },
+      { "tier": 2, "itemId": 1279, "name": "Steel sword" },
+      { "tier": 3, "itemId": 1281, "name": "Mithril sword" },
+      { "tier": 4, "itemId": 1283, "name": "Adamant sword" },
+      { "tier": 5, "itemId": 1289, "name": "Rune sword" },
+      { "tier": 6, "itemId": 4151, "name": "Abyssal whip" },
+      { "tier": 7, "itemId": 13265, "name": "Abyssal tentacle" },
+      { "tier": 8, "itemId": 11785, "name": "Armadyl godsword" },
+      { "tier": 9, "itemId": 22324, "name": "Zaryte crossbow" },
+      { "tier": 10, "itemId": 20727, "name": "Inquisitor's mace" },
+      { "tier": 11, "itemId": 25739, "name": "Soulreaper axe" }
+    ],
+    "Cape": [
+      { "tier": 1, "itemId": 1007, "name": "Cape" },
+      { "tier": 2, "itemId": 6570, "name": "Fire cape" },
+      { "tier": 3, "itemId": 21295, "name": "Infernal cape" }
+    ],
+    "Hands": [
+      { "tier": 1, "itemId": 1065, "name": "Iron gloves" },
+      { "tier": 2, "itemId": 7453, "name": "Combat bracelet" },
+      { "tier": 3, "itemId": 7462, "name": "Barrows gloves" },
+      { "tier": 4, "itemId": 22981, "name": "Zaryte vambraces" },
+      { "tier": 5, "itemId": 26235, "name": "Ferocious gloves" }
+    ],
+    "Feet": [
+      { "tier": 1, "itemId": 4131, "name": "Iron boots" },
+      { "tier": 2, "itemId": 89, "name": "Climbing boots" },
+      { "tier": 3, "itemId": 11840, "name": "Dragon boots" },
+      { "tier": 4, "itemId": 13239, "name": "Primordial boots" }
+    ],
+    "Neck": [
+      { "tier": 1, "itemId": 1654, "name": "Amulet of power" },
+      { "tier": 2, "itemId": 1731, "name": "Amulet of glory" },
+      { "tier": 3, "itemId": 6585, "name": "Amulet of fury" },
+      { "tier": 4, "itemId": 19553, "name": "Amulet of torture" },
+      { "tier": 5, "itemId": 22557, "name": "Amulet of blood fury" }
+    ],
+    "Ring": [
+      { "tier": 1, "itemId": 2550, "name": "Ring of wealth" },
+      { "tier": 2, "itemId": 6731, "name": "Ring of life" },
+      { "tier": 3, "itemId": 6737, "name": "Berserker ring" },
+      { "tier": 4, "itemId": 11773, "name": "Berserker ring (i)" },
+      { "tier": 5, "itemId": 26769, "name": "Ultor ring" }
+    ]
+  },
+  "Range": {
+    "Head": [
+      { "tier": 1, "itemId": 1129, "name": "Leather cowl" },
+      { "tier": 2, "itemId": 1169, "name": "Coif" },
+      { "tier": 3, "itemId": 3749, "name": "Archer helm" },
+      { "tier": 4, "itemId": 12235, "name": "Black mask (10)" },
+      { "tier": 5, "itemId": 19544, "name": "Armadyl helmet" },
+      { "tier": 6, "itemId": 26234, "name": "Masori mask" },
+      { "tier": 7, "itemId": 28605, "name": "Masori mask (f)" }
+    ],
+    "Body": [
+      { "tier": 1, "itemId": 1131, "name": "Leather body" },
+      { "tier": 2, "itemId": 1135, "name": "Hardleather body" },
+      { "tier": 3, "itemId": 2501, "name": "Black d'hide body" },
+      { "tier": 4, "itemId": 19547, "name": "Armadyl chestplate" },
+      { "tier": 5, "itemId": 26240, "name": "Masori body" },
+      { "tier": 6, "itemId": 28606, "name": "Masori body (f)" }
+    ],
+    "Legs": [
+      { "tier": 1, "itemId": 1099, "name": "Leather chaps" },
+      { "tier": 2, "itemId": 1097, "name": "Hardleather chaps" },
+      { "tier": 3, "itemId": 2503, "name": "Black d'hide chaps" },
+      { "tier": 4, "itemId": 19550, "name": "Armadyl chainskirt" },
+      { "tier": 5, "itemId": 26243, "name": "Masori chaps" },
+      { "tier": 6, "itemId": 28607, "name": "Masori chaps (f)" }
+    ],
+    "Weapon": [
+      { "tier": 1, "itemId": 839, "name": "Longbow" },
+      { "tier": 2, "itemId": 841, "name": "Oak longbow" },
+      { "tier": 3, "itemId": 845, "name": "Maple longbow" },
+      { "tier": 4, "itemId": 847, "name": "Yew longbow" },
+      { "tier": 5, "itemId": 859, "name": "Magic longbow" },
+      { "tier": 6, "itemId": 19481, "name": "Heavy ballista" },
+      { "tier": 7, "itemId": 12926, "name": "Blowpipe" },
+      { "tier": 8, "itemId": 11235, "name": "Dark bow" },
+      { "tier": 9, "itemId": 22547, "name": "Bow of faerdhinen" },
+      { "tier": 10, "itemId": 25865, "name": "Bow of faerdhinen (c)" }
+    ],
+    "Cape": [
+      { "tier": 1, "itemId": 10499, "name": "Ava's accumulator" },
+      { "tier": 2, "itemId": 22109, "name": "Ava's assembler" },
+      { "tier": 3, "itemId": 28941, "name": "Ava's assembler (max)" }
+    ],
+    "Hands": [
+      { "tier": 1, "itemId": 1065, "name": "Leather vambraces" },
+      { "tier": 2, "itemId": 7462, "name": "Barrows gloves" },
+      { "tier": 3, "itemId": 22981, "name": "Zaryte vambraces" }
+    ],
+    "Feet": [
+      { "tier": 1, "itemId": 4131, "name": "Iron boots" },
+      { "tier": 2, "itemId": 2577, "name": "Ranger boots" },
+      { "tier": 3, "itemId": 13237, "name": "Pegasian boots" }
+    ],
+    "Neck": [
+      { "tier": 1, "itemId": 1654, "name": "Amulet of power" },
+      { "tier": 2, "itemId": 1731, "name": "Amulet of glory" },
+      { "tier": 3, "itemId": 6585, "name": "Amulet of fury" },
+      { "tier": 4, "itemId": 19553, "name": "Necklace of anguish" }
+    ],
+    "Ring": [
+      { "tier": 1, "itemId": 2550, "name": "Ring of wealth" },
+      { "tier": 2, "itemId": 6733, "name": "Archers ring" },
+      { "tier": 3, "itemId": 11771, "name": "Archers ring (i)" },
+      { "tier": 4, "itemId": 26775, "name": "Venator ring" }
+    ]
+  },
+  "Mage": {
+    "Head": [
+      { "tier": 1, "itemId": 579, "name": "Wizard hat" },
+      { "tier": 2, "itemId": 7394, "name": "Farseer helm" },
+      { "tier": 3, "itemId": 4708, "name": "Splitbark helm" },
+      { "tier": 4, "itemId": 4716, "name": "Mystic hat" },
+      { "tier": 5, "itemId": 4708, "name": "Ahrim's hood" },
+      { "tier": 6, "itemId": 21018, "name": "Ancestral hat" },
+      { "tier": 7, "itemId": 28602, "name": "Virtus mask" }
+    ],
+    "Body": [
+      { "tier": 1, "itemId": 577, "name": "Wizard robe top" },
+      { "tier": 2, "itemId": 4712, "name": "Splitbark body" },
+      { "tier": 3, "itemId": 4720, "name": "Mystic robe top" },
+      { "tier": 4, "itemId": 4856, "name": "Ahrim's robetop" },
+      { "tier": 5, "itemId": 21021, "name": "Ancestral robe top" },
+      { "tier": 6, "itemId": 28599, "name": "Virtus robe top" }
+    ],
+    "Legs": [
+      { "tier": 1, "itemId": 1011, "name": "Wizard robe skirt" },
+      { "tier": 2, "itemId": 4714, "name": "Splitbark legs" },
+      { "tier": 3, "itemId": 4722, "name": "Mystic robe bottom" },
+      { "tier": 4, "itemId": 4858, "name": "Ahrim's robeskirt" },
+      { "tier": 5, "itemId": 21024, "name": "Ancestral robe bottom" },
+      { "tier": 6, "itemId": 28596, "name": "Virtus robe legs" }
+    ],
+    "Weapon": [
+      { "tier": 1, "itemId": 1379, "name": "Staff" },
+      { "tier": 2, "itemId": 1389, "name": "Staff of air" },
+      { "tier": 3, "itemId": 1401, "name": "Staff of fire" },
+      { "tier": 4, "itemId": 4170, "name": "Slayer's staff" },
+      { "tier": 5, "itemId": 6914, "name": "Ancient staff" },
+      { "tier": 6, "itemId": 11791, "name": "Staff of the dead" },
+      { "tier": 7, "itemId": 22296, "name": "Harmonised nightmare staff" },
+      { "tier": 8, "itemId": 21006, "name": "Kodai wand" },
+      { "tier": 9, "itemId": 25731, "name": "Tumeken's shadow" }
+    ],
+    "Cape": [
+      { "tier": 1, "itemId": 1007, "name": "Cape" },
+      { "tier": 2, "itemId": 2412, "name": "Cape of legends" },
+      { "tier": 3, "itemId": 6570, "name": "God cape" },
+      { "tier": 4, "itemId": 21791, "name": "Imbued god cape" }
+    ],
+    "Hands": [
+      { "tier": 1, "itemId": 1059, "name": "Leather gloves" },
+      { "tier": 2, "itemId": 7462, "name": "Barrows gloves" },
+      { "tier": 3, "itemId": 19544, "name": "Tormented bracelet" }
+    ],
+    "Feet": [
+      { "tier": 1, "itemId": 1061, "name": "Leather boots" },
+      { "tier": 2, "itemId": 6920, "name": "Infinity boots" },
+      { "tier": 3, "itemId": 2577, "name": "Wizard boots" },
+      { "tier": 4, "itemId": 13235, "name": "Eternal boots" }
+    ],
+    "Neck": [
+      { "tier": 1, "itemId": 1654, "name": "Amulet of power" },
+      { "tier": 2, "itemId": 1731, "name": "Amulet of glory" },
+      { "tier": 3, "itemId": 6585, "name": "Amulet of fury" },
+      { "tier": 4, "itemId": 12002, "name": "Occult necklace" }
+    ],
+    "Ring": [
+      { "tier": 1, "itemId": 2550, "name": "Ring of wealth" },
+      { "tier": 2, "itemId": 6729, "name": "Seers ring" },
+      { "tier": 3, "itemId": 11770, "name": "Seers ring (i)" },
+      { "tier": 4, "itemId": 26731, "name": "Magus ring" }
+    ]
+  }
+}

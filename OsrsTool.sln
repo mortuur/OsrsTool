@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsrsTool.Domain", "OsrsTool.Domain\OsrsTool.Domain.csproj", "{DF6E510F-6FBA-358D-C018-B13D35925DAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsrsTool.Server", "OsrsTool.Server\OsrsTool.Server.csproj", "{62296710-0739-DCE3-93D3-338E566BC452}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsrsTool.server", "OsrsTool.server\OsrsTool.server.csproj", "{62296710-0739-DCE3-93D3-338E566BC452}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsrsTool.Test", "Test\OsrsTool.Test.csproj", "{89C2182C-64AF-6231-5BAE-4585B9AA7C23}"
 EndProject
