@@ -28,6 +28,7 @@ namespace OsrsTool.Infrastructure.Services
         public async Task<ItemDto?> GetItemByIdAsync(int id)
         {
             var item = await _itemRepository.GetByIdAsync(id);
+            // check for null and map to DTO
             return item == null ? null : new ItemDto
             {
                 Id = item.Id,

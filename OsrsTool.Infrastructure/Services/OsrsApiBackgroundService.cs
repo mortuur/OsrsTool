@@ -58,9 +58,9 @@ namespace OsrsTool.Infrastructure.Services
                 using var scope = _scopeFactory.CreateScope();
                 var apiService = scope.ServiceProvider.GetRequiredService<IOsrsApiService>();
 
-                _logger.LogInformation("Starting fetch/store cycle at {Time}.", DateTime.UtcNow);
                 await apiService.FetchAndStoreItemsAsync();
                 await apiService.FetchAndStoreLatestPricesAsync();
+                _logger.LogInformation("Starting fetch/store cycle at {Time}.", DateTime.UtcNow);
                 _logger.LogInformation("Completed fetch/store cycle at {Time}.", DateTime.UtcNow);
             }
             catch (Exception ex)

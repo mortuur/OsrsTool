@@ -29,7 +29,6 @@ namespace OsrsTool.Infrastructure.Services
             if (apiItems == null) return;
 
             var dbItems = await _itemRepo.GetAllAsync();
-            // Materialize into a dictionary for O(1) lookups
             var itemsById = dbItems.ToDictionary(i => i.Id);
 
             foreach (var apiItem in apiItems)
