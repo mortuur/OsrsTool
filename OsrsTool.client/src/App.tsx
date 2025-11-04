@@ -1,15 +1,23 @@
-function App() {
-    return (
-        <div className="min-h-screen flex items-center justify-center bg-gray-900">
-            <p className="text-red-500">Testkleur</p>
+import { Routes, Route, Link } from 'react-router-dom';
+import Home from './pages/Home';
+import About from './pages/About';
 
-            <div
-                className="p-4 mb-4 text-sm !text-green-300 rounded-lg bg-green-900 border border-green-400"
-                role="alert">
-                <span className="font-medium">Success!</span> Tailwind werkt 🎉
-            </div>
-        </div>
-    );
+function App() {
+  return (
+    <div className="min-h-screen bg-gray-900 text-gray-100">
+      <nav className="p-4 flex gap-4">
+        <Link className="text-green-300" to="/">Home</Link>
+        <Link className="text-green-300" to="/about">About</Link>
+      </nav>
+
+      <main className="flex items-center justify-center p-8">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+      </main>
+    </div>
+  );
 }
 
 export default App;
