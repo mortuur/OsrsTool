@@ -161,7 +161,7 @@ namespace OsrsTool.Tests
 
             return dbSet.Object;
         }
-
+       
         private sealed class TestAsyncQueryProvider<TEntity> : IAsyncQueryProvider
         {
             private readonly IQueryProvider _inner;
